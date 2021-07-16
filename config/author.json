@@ -1,0 +1,47 @@
+{
+  "github": "tunardev",
+  "socials": [
+    {
+      "href": "https://discord.com/users/717411894897672212",
+      "icon": ["fab", "discord"],
+      "color": "#ffff"
+    },
+    {
+      "href": "https://github.com/tunardev",
+      "icon": ["fab", "github"],
+      "color": "#ffff"
+    },
+    {
+      "href": "https://twitter.com/tunardev",
+      "icon": ["fab", "twitter"],
+      "color": "#ffff"
+    },
+    {
+      "href": "https://www.youtube.com/channel/UCRuLKVStmTdaWqVJWzDh5kA",
+      "icon": ["fab", "youtube"],
+      "color": "#ffff"
+    }
+  ],
+  "techs": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "Vue.js",
+    "Nuxt.js",
+    "React.js",
+    "Next.js",
+    "Go",
+    "Bootstrap",
+    "TailwindCSS",
+    "WindiCSS",
+    "Sass",
+    "Yarn",
+    "Pnpm",
+    "MongoDB",
+    "Github",
+    "Firebase"
+  ],
+  "discord": "717411894897672212"
+}
