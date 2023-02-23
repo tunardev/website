@@ -52,7 +52,7 @@ const Header = () => {
             </a>
           </div>
           <p className="text-gray-500">
-            13 years old student and trying to become a full-stack web
+            15 years old student and trying to become a full-stack web
             developer. interesting about{" "}
             <span className="text-yellow-400">JavaScript</span> so using{" "}
             <span className="text-blue-300">React.js</span>,{" "}
