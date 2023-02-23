@@ -34,7 +34,7 @@ const Header = () => {
       name: "Tunar",
       from: "Azerbaijan",
       live: "Azerbaijan/Baku",
-      age: 13
+      age: 15
     }
   console.log(tunar)
   `;
